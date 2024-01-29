@@ -1,0 +1,4 @@
+git : https://github.com/ironmanciti/ML-Basic-4Days
+아나콘다에서 jupyter notebook 실행
+url : http://127.0.0.1:8888/?token=3fd9056124da00d35bea3ebec03b293244b1d80828b6a20a
+git 소스 열기
